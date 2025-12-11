@@ -1,6 +1,6 @@
 const list = document.getElementById("list");
 const url =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpHobChsTHSlRzCGeIYb_me-0WrAk_vm4xrBdzBDLvvjUH9ZV1zOx54IGiEAfUMn41Wr9wXQ-OutLs/pub?gid=598814886&single=true&output=csv";
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQWKkaSlrzNaj-pbqCJoQdITDygFRhpmZ35AI_Z9jX507BKZ63zDe1UqOBw4Q_5T44XXFnuuh-U__y8/pub?gid=525457933&single=true&output=csv";
 
 async function render() {
   const resp = await fetch(url);

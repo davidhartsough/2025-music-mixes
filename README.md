@@ -1,3 +1,3 @@
-# 2024 Music Mixes
+# 2025 Music Mixes
 
-> The Dope Mixtapes of 2024 • your end-of-the-year playlists
+> The Dope Mixtapes of 2025 • your end-of-the-year playlists
